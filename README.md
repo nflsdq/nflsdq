@@ -1,111 +1,20 @@
-<!-- Banner Animasi -->
-<p align="center">
-  <img src="https://github.com/nflsdq/nflsdq/blob/main/assets/banner.gif" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Ahmad Naufal Sidiq</h1>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1A6CF0&center=true&vCenter=true&width=435&lines=Web+Developer;Pendidikan+Ilmu+Komputer;Open+Source+Enthusiast" alt="Typing SVG" />
+<h3 align="center">A passionate website developer from Indonesia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nflsdq&label=Profile%20views&color=0e75b6&style=flat" alt="nflsdq" /> </p>
+
+- 👨‍💻 All of my projects are available at [naufalsidiq.xyz](naufalsidiq.xyz)
+
+- 📫 How to reach me **ahmadnaufal597@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmad-naufal-sidiq-0542b12b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-naufal-sidiq-0542b12b2" height="30" width="40" /></a>
+<a href="https://fb.com/nflsdq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nflsdq" height="30" width="40" /></a>
+<a href="https://instagram.com/nflsdq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nflsdq_" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.naufalsidiq.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmad-naufal-sidiq-0542b12b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/sponsors/nflsdq" target="_blank"><img src="https://img.shields.io/badge/Sponsor-ff69b4?style=flat-square&logo=githubsponsors&logoColor=white" /></a>
-  <a href="https://instagram.com/nflsdq_" target="_blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nflsdq&label=Profile+views&color=blue" alt="Profile Views" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
-
-## 🚀 About Me
-
-- 🏫 Mahasiswa Pendidikan Ilmu Komputer
-- 💻 Web Developer & Open Source Enthusiast
-- 🌐 Portfolio: [naufalsidiq.xyz](https://www.naufalsidiq.xyz)
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/ahmad-naufal-sidiq-0542b12b2) & [Instagram](https://instagram.com/nflsdq_)
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,figma,git,github,laravel,php,python,vscode" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nflsdq&show_icons=true&theme=radical" alt="nflsdq stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nflsdq&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nflsdq&theme=radical" alt="Activity Graph" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nflsdq&theme=radical&row=1&column=7" alt="GitHub Trophy" />
-</p>
-
----
-
-## 🔥 Recent Work
-
-- [Portfolio Website](https://www.naufalsidiq.xyz)
-- [Open Source Contribution](https://github.com/nflsdq)
-- [UI/UX Personal Project on Figma](https://www.figma.com/@nflsdq)
-- [Latest Blog Post](https://www.naufalsidiq.xyz/blog)
-
----
-
-## ✨ Fun Facts
-
-- 📚 Sedang mendalami React & Node.js
-- ☕ Kopi adalah teman ngoding terbaik!
-- 🏆 Motto: "Consistency beats talent"
-
----
-
-## 🃏 Random Coding Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes" />
-</p>
-
----
-
-## 💡 Quotes
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-> "The best way to predict the future is to invent it." – Alan Kay
-
----
-
-## 🎬 Coding Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" />
-</p>
-
----
-
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="mailto:naufalsidiq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmad-naufal-sidiq-0542b12b2"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/nflsdq_"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <b>Thank you for visiting!</b> 🚀
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nflsdq&show_icons=true&locale=en" alt="nflsdq" /></p>
