@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nflsdq&label=Profile%20views&color=0e75b6&style=flat" alt="nflsdq" /> </p>
 
-- 👨‍💻 All of my projects are available at [naufalsidiq.xyz](naufalsidiq.xyz)
+- 👨‍💻 All of my projects are available at [naufalsidiq.tech](naufalsidiq.tech)
 
 - 📫 How to reach me **ahmadnaufal597@gmail.com**
 
